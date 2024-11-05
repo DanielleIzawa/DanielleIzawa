@@ -4,8 +4,7 @@
 
 <h3> Personal Stuffs </h3>
 
-- 🔭 I’m front end developer
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning data and RPA
 
 <h3> Technologies </h3>
 
