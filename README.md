@@ -1,6 +1,6 @@
 <h1 align = "center">Hi guys👋, I'm Danielle Izawa</h1>
 
-<img align="right" alt="GIF" width="250px" height="225px" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif" />
+<img align="right" alt="GIF" width="200px" height="190px" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif" />
 
 <h3> Personal Stuffs </h3>
 
